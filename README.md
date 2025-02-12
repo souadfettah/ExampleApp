@@ -115,5 +115,5 @@ Now, access the API at: `http://localhost:3000`
 ---
 
 ## 🛠️ **Tests & Notes**
-- **Remarque:** J'ai fait les tests avec `User.first`.  
-- Si vous ajoutez l'authentification avec Devise ou JWT, remplacez `User.first` par `current_user`.  
+- **Remarque:** I ran the tests using `User.first`.  
+- f you add authentication with Devise or JWT, replace `User.first` with `current_user`.  
